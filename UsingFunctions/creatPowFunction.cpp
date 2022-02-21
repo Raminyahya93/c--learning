@@ -25,4 +25,4 @@ double power(double base, int exponent)//definition
         result = result * base;
     }
     return result;
-}
+} 
