@@ -34,7 +34,7 @@ int main()
     while(true)
     {
         
-        cout << "pls choose one of those operator"<<endl;
+        cout << "pls choose one of these operator 'i' 'm' 'a' 'n'"<<endl;
         char op_ch;
         cin >> op_ch;
         switch(op_ch)
