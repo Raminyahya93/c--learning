@@ -134,4 +134,5 @@ int main()
     cin >> a >> b >> c ;
     Date t2(a,b,c);
     cout << "the difrences of the dates is " <<t2.getDifferance(t1)<< " days!!!"<<endl;
+    return 0;
 }
